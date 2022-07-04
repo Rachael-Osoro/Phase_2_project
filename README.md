@@ -41,7 +41,7 @@ Size of homes similar to neighbouring Homes
 
 ## Limitations of Model
 
-Multicolinearity.
+Multicolinearity. This will limit reproducibility of the model created
 
 ## Dependencies of this project
 Conda
