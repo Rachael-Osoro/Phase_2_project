@@ -3,7 +3,14 @@
 
 ## Navigation
 <a href="https://github.com/Rachael-Osoro/Phase_2_project#project-overview">Project Overview</a>
+
 <a href= "https://github.com/Rachael-Osoro/Phase_2_project#business-understanding">Business Understanding</a>
+
+<a href = "https://github.com/Rachael-Osoro/Phase_2_project#findings"> Findings</a>
+
+<a href = "https://github.com/Rachael-Osoro/Phase_2_project#findings"> Recommendations<a/>
+  
+  <a href = "https://github.com/Rachael-Osoro/Phase_2_project#limitations-of-model"> Conclusions<a/>
 
 ## Project Overview
 This project was completed using this dataset <a href= "https://github.com/Rachael-Osoro/Phase_2_project/blob/main/kc_house_data.csv">King County Housing Data</a>. The dataset includes homes sold  between May 2014 and May 2015, including house properties such as number bathrooms, zipcode, langitude, latitude. Here is a brief overview of the data set <a href="https://github.com/Rachael-Osoro/Phase_2_project/blob/main/Data_Description.md"> King County Housing Description</a>
